@@ -22,4 +22,4 @@ DApp Structure
 
 
 # built with embark
-# https://github.com/embark-framework/embark/blob/develop/README.md
+## https://github.com/embark-framework/embark/blob/develop/README.md
