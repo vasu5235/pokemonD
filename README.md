@@ -19,3 +19,7 @@ DApp Structure
   test/
     |___ #contracts tests
 ```
+
+
+# built with embark
+# https://github.com/embark-framework/embark/blob/develop/README.md
