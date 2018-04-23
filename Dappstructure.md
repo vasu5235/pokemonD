@@ -437,3 +437,14 @@ It's possible to extend Embark's functionality with plugins. For example, the fo
 
 # built with embark
 ## https://github.com/embark-framework/embark/blob/develop/README.md
+
+
+
+# how to run the game in local devenv
+
+
+## STACK WE USED :
+ ### embark
+ ### geth
+ ### ipfs(CORS)
+ ### ganache-cli
