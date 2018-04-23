@@ -448,3 +448,24 @@ It's possible to extend Embark's functionality with plugins. For example, the fo
  ### geth
  ### ipfs(CORS)
  ### ganache-cli
+ # run ganache-cli
+ 
+## CLONE THE REPO 
+### cd to the clone repo
+### embark blockchain
+### in other console,cd to repo and run 
+### embark run
+
+
+
+
+
+
+
+
+
+
+
+
+
+
