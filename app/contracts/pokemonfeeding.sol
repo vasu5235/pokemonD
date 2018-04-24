@@ -1,6 +1,7 @@
 pragma solidity ^0.4.19;
 
 import "./pokemonfactory.sol";
+// needs renaming/refactoring?
 
 contract KittyInterface {
   function getKitty(uint256 _id) external view returns (
