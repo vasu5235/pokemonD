@@ -47,7 +47,7 @@ contract PokemonFactory is Ownable {
         return rand % dnaModulus;
     }
 
-    function createRandomZombie(string _name) public {
+    function createRandomPokemon(string _name) public {
         require(ownerPokemonCount[msg.sender] == 0);
         uint randDna = _generateRandomDna(_name);
         randDna = randDna - randDna % 100;
