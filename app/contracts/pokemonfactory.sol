@@ -1,3 +1,4 @@
+
 pragma solidity ^0.4.19;
 
 import "./ownable.sol";
@@ -47,6 +48,8 @@ contract PokemonFactory is Ownable {
         return rand % dnaModulus;
     }
 
+    
+    /// internal method that creates a new pokemon and stores it.
     function createRandomPokemon(string _name) public {
         require(ownerPokemonCount[msg.sender] == 0);
         uint randDna = _generateRandomDna(_name);
