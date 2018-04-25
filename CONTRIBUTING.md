@@ -20,8 +20,7 @@ Follow the [style guide][style].
 
   [style]: https://github.com/thoughtbot/guides/tree/master/style
 
-Mention how your changes affect the project to other developers and users in the
-`NEWS.md` file.
+Mention how your changes affect the project to other developers and users.
 
 Push to your fork. Write a [good commit message][commit]. Submit a pull request.
 
